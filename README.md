@@ -9,17 +9,6 @@ Apoyar al consejo directivo de la OMS en la comprensión de la situación actual
 - Reducción del **50%** en tasa de incidencia (vs 2015)
 - Reducción del **75%** en número de muertes (vs 2015)
 
-## Estructura del repositorio
-
-```
-├── data/
-│   └── tuberculosis.csv        # Dataset limpio (WHO + population)
-├── notebooks/
-│   └── limpieza_datos.ipynb    # Limpieza y transformación en Python
-├── dashboard/
-│   └── tuberculosis.pbix       # Dashboard Power BI
-└── README.md
-```
 
 ## Proceso de datos
 
