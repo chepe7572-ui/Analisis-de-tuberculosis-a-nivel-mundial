@@ -51,3 +51,7 @@ Todos los visuales son interactivos y se filtran con segmentadores de año, gén
 - Python 3 / Google Colab — limpieza de datos
 - Pandas — transformación y análisis
 - Power BI Desktop — visualización y dashboard
+
+## Dashboard
+
+[Abrir dashboard en Power BI](https://app.powerbi.com/groups/me/reports/a70d17c8-31b0-4a47-ad72-a255b12ccaee/778c22c0e4d40b20d5c3?experience=power-bi)
